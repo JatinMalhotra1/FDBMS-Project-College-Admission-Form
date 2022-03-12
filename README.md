@@ -7,4 +7,5 @@
 > Then we have translated our data/tables into mysql (SQL) code usig Data Definition language. 
 > After proper allocation of data types of each attributes, the Mysql code was executed successfully.  
 > Then by using MySQL Workbench, we have generated ER diagram for the same.
-> ![image](https://user-images.githubusercontent.com/93217093/157685029-7a228f26-b7a8-4228-a7fc-2176d9bc8598.png)
+> ![image](https://user-images.githubusercontent.com/93217093/158013606-2f88dd21-73ff-442e-a59a-dbcb89f9395b.png)
+
